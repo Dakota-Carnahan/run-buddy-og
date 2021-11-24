@@ -74,6 +74,7 @@ footer a {
 }
 
 /* Hero Style Start*/
+
 .hero {
     background-image: url("../images/hero-bg.jpg");
     height: 600px;
@@ -94,11 +95,10 @@ footer a {
     bottom: 120px;
     right: 140px;
 }
-/*Hero Style End*/
 
 .hero-form h3 {
-    margin: 0;
     font-size: 24px;
+    margin: 0;
 }
 
 .hero-form p {
@@ -114,3 +114,17 @@ footer a {
     width: 100%;
     margin-bottom: 15px;
 }
+
+.hero-form label {
+    margin: 0 5px;
+}
+
+.hero-form button {
+    color: #fce138;
+    background-color: #024e76;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+/*Hero Style End*/
